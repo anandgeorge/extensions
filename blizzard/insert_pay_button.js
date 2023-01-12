@@ -1,0 +1,1 @@
+const disabled_pay_button = document.querySelector("#payment-form > div.form-actions.purchase-form-actions > button:nth-child(1)"); disabled_pay_button.insertAdjacentHTML("afterend",`<button class="meka-button meka-button--primary meka-button--large">Buy with BAT</button>`);
