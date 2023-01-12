@@ -1,0 +1,1 @@
+document.querySelector("#price-breakdown > div.checkout-total > p > meka-price-label").price
